@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+#hero
+{
+	background-image: url("../images/bg2.jpg");
+}
+#hero2
+{
+	background-color: #F0F0F0;
+}
+#hero3
+{
+	background-color: #F0F0F0;
+}
+#hero4
+{
+	background-color: #F0F0F0;
+}
+ body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+        background-color: #000; /* nền đen như mẫu */
+        color: #fff;
+    }
+
+    .contact-container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 40px 80px;
+        gap: 60px;
+    }
+
+    .map-box iframe {
+        width: 420px;
+        height: 420px;
+        border: 0;
+        border-radius: 12px;
+    }
+
+    .contact-text {
+        max-width: 550px;
+        line-height: 1.7;
+        font-size: 18px;
+    }
+
+    .contact-text h2 {
+        font-size: 42px;
+        margin-bottom: 20px;
+        color: #040303;
+    }
+
+    .footer {
+        text-align: center;
+        padding: 20px 0;
+        color: #aaa;
+        font-size: 16px;
+		
+    }
+body {
+    font-family: "Poppins", sans-serif;
+	
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+	
